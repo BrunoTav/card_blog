@@ -7,7 +7,7 @@ root:{
 }
 @font-face{
   font-family:FigtreeVariable;
-  src:url(fonts/FigtreeVariableFont.ttf);
+  src:url(fontes/FigtreeVariableFont.ttf);
 }
 *{
   font-size:16px;
